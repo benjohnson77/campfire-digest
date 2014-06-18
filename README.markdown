@@ -7,6 +7,8 @@ You need to construct a YAML file that has your user id's and translates them in
 Here's an example.
 
 ####bot.yml
+
+```
 m_1155555: 'Billy'
 m_1199999: 'Bob'
 user: 'API KEY FROM CAMPFIRENOW.com'
@@ -14,7 +16,7 @@ pass: 'PASS For Account'
 url: 'https://yourAPP.campfirenow.com/room/ROOMID/transcript.xml'
 email_user: 'no-reply@yourdomain.com'
 email_pass: 'Password' 
-
+```
 You could change the code and use ENV varibles if that suites you. 
 
 ###TODO
