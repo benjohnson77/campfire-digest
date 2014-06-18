@@ -2,7 +2,7 @@
 
 I was having trouble getting business owners to stay tuned in campfire. But the developers were giving so quality updates and I need to get those out to a broader audience. So I created a rake task to simply do that. 
 
-You need to construct a YAML file that has your user id's and translates them into Readable Names. Also I stashed my configs in the same file so that I could just exclude that file from the project. It would not take you but  minute to create it. 
+To use you need to construct a YAML file that has your user id's and translates them into Readable Names. Also I stashed my configs in the same file so that I could just exclude that file from the project. It would not take you but  minute to create it. 
 
 Here's an example.
 
